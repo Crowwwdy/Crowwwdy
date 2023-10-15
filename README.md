@@ -31,8 +31,7 @@ I am a python developer and a beginner frontend developer. <img src="https://med
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Crowwwdy&theme=tokyonight-duo)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Crowwwdy=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?Crowwwdy=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 ---
 
 
