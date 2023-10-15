@@ -29,8 +29,10 @@ I am a python developer and a beginner frontend developer. <img src="https://med
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Crowwwdy&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Crowwwdy&theme=tokyonight-duo)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crowwwdy0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Crowwwdy=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+
