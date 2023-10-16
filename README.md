@@ -1,5 +1,7 @@
-
-<p align="center"><img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif" width="100"/></p>
+<div id="header" align="center">
+    <h1>Hi there 👋</h1>
+</div>
+<p align="center"><img src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy-downsized-large.gif" width="100"/></p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
@@ -34,4 +36,3 @@ I am a python developer and a beginner frontend developer. <img src="https://med
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Crowwwdy&theme=tokyonight" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Crowwwdy&theme=tokyonight" alt=""/>
 </div>
----
