@@ -29,12 +29,9 @@ I am a python developer and a beginner frontend developer. <img src="https://med
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Crowwwdy&theme=tokyonight-duo)](https://git.io/streak-stats)
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Crowwwdy&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Crowwwdy&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Crowwwdy&theme=tokyonight" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Crowwwdy&theme=tokyonight" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Crowwwdy&theme=tokyonight" alt=""/>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crowwwdy&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ---
