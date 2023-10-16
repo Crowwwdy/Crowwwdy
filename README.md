@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<p align="center"><img src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy.gif" width="100"/></p>
+<p align="center"><img src="[https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy.gif](https://media.giphy.com/media/f74WQIhbzBKAusL2v1/giphy-downsized-large.gif)" width="100"/></p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Crowwwdy&style=flat-square&color=blue" alt=""></p>
 
@@ -30,14 +30,10 @@ I am a python developer and a beginner frontend developer. <img src="https://med
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Crowwwdy&theme=tokyonight-duo)](https://git.io/streak-stats)
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Crowwwdy&theme=tokyonight" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Crowwwdy&theme=tokyonight" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Crowwwdy&theme=tokyonight" alt=""/>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crowwwdy&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
----
 
 
