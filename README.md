@@ -1,8 +1,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif" width="100"/></p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
-
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Crowwwdy&style=flat-square&color=blue" alt=""></p>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
