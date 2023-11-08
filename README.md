@@ -33,7 +33,7 @@ I am a python developer and a beginner frontend developer. <img src="https://med
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Crowwwdy&theme=tokyonight" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Crowwwdy&theme=tokyonight" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Crowwwdy&theme=tokyonight" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Crowwwdy&theme=tokyonight" alt=""/>
 </div>
 
 
