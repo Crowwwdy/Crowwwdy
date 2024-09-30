@@ -2,6 +2,9 @@
 
 <p align="center"><img src="https://media.giphy.com/media/1zRfp0Jwsag4yPekP4/giphy.gif" width="100"/></p>
 
+  <a href="https://wakatime.com/@Crowwwdy">
+    <img src="https://wakatime.com/badge/user/018d5714-2a85-42bf-a532-62fbc0b33581.svg" alt="Crowwwdy"/>
+  </a>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Crowwwdy&style=flat-square&color=blue" alt=""></p>
 
 
