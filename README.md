@@ -2,10 +2,10 @@
 
 <p align="center"><img src="https://media.giphy.com/media/1zRfp0Jwsag4yPekP4/giphy.gif" width="100"/></p>
 
-  <a href="https://wakatime.com/@Crowwwdy">
+  <a href="https://wakatime.com/@018eb9dd-c0bc-4f50-9a51-606d4483442a">
     <img src="https://wakatime.com/badge/user/018d5714-2a85-42bf-a532-62fbc0b33581.svg" alt="Crowwwdy"/>
   </a>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Crowwwdy&style=flat-square&color=blue" alt=""></p>
+<span align="center"><img src="https://komarev.com/ghpvc/?username=Crowwwdy&style=flat-square&color=blue" alt=""></span>
 
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
