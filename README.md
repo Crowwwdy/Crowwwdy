@@ -3,7 +3,7 @@
 <p align="center"><img src="https://media.giphy.com/media/1zRfp0Jwsag4yPekP4/giphy.gif" width="100"/></p>
 
 <div align="center">
-  <a href="https://wakatime.com/@018eb9dd-c0bc-4f50-9a51-606d4483442a">
+  <a href="https://wakatime.com/@Crowdy">
     <img src="https://wakatime.com/badge/user/018eb9dd-c0bc-4f50-9a51-606d4483442a.svg" alt="Total time coded since Apr 7 2024" />
   </a>
   <span align="center"><img src="https://komarev.com/ghpvc/?username=Crowwwdy&style=flat-square&color=blue" alt=""></span>
